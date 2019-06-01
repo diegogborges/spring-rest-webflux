@@ -13,7 +13,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 @Document
-public class PlayList {
+public class Playlist {
 
     @Id
     private String id;
